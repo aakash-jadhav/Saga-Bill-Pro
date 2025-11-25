@@ -58,7 +58,7 @@ Seamless payment processing with QR code generation for quick and secure transac
 No build tools or dependencies required! This is a static HTML website that can be opened directly in any modern web browser.
 
 
-```
+
 
 ## 🛠️ Technologies Used
 
